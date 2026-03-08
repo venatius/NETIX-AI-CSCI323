@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NETIX.AI — Predictive Maintenance with ML
 
 A machine learning project for predictive maintenance of building systems (HVAC, pumps, AHUs) using both **classification** (fault detection) and **regression** (performance prediction) models.
